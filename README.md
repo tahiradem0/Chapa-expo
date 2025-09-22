@@ -1,7 +1,7 @@
 # 🟢 Chapa Trial for Developers
 
 <p align="center">
-  <img src="https://chapa.co/assets/images/chapa-logo.png" alt="Chapa Logo" width="200"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMpw4l26YdNQo3yBop6vj8-yOWPlmODxTRmRgq9fiJ01wYpREeo3xBUE&s=10" alt="Chapa Logo" width="200"/>
 </p>
 
 Welcome to **Chapa Trial for Devs** 🎉  
