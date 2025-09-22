@@ -1,5 +1,3 @@
-Perfect 👍 Let’s make it clear + simple for every programmer, while still keeping it cool. Here’s an improved README.md:
-
 # 🟢 Chapa Trial for Developers
 
 <p align="center">
