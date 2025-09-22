@@ -22,7 +22,7 @@ It’s simple: try out code → see payments in action → share your experiment
 ## 🛠 How to Use
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/chapa-trial.git
+   git clone https://github.com/tahiradem0/Chapa-expo
 
 2. Try the examples (replace with your Chapa sandbox keys).
 
